@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.vcxproj
+*.user
+*.sln
+
+# Build files
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# vcpkg
+installed/
+vcpkg_installed/
+external/
